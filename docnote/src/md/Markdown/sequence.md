@@ -7,7 +7,7 @@
 ```
 左侧note： note left of acotor： message
 右侧note： note right of actor: message,
-覆盖note： note over actor:message
+覆盖note： note over actor:message{eg:note over a,b:test}
 ```
 - 设置会话
 ```
@@ -23,6 +23,7 @@ Title:测试时序图
 note left of 徐:左测试
 刚-->文:测试虚线
 文->>刚:测试返回实线
-文-->徐:测试返回虚线
+文-->徐:测试返回虚线(修改)
 note  right of 文:右测试
+note  over  刚,文:夸测试
 ```
