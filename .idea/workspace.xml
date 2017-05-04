@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94072bcb-28be-49cf-b5c6-32da89876e4a" name="Default" comment="" />
+    <list default="true" id="94072bcb-28be-49cf-b5c6-32da89876e4a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/src/md/Markdown/sequence.md" afterPath="$PROJECT_DIR$/docnote/src/md/Markdown/sequence.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,12 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sequence.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sequence.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docnote/src/md/Markdown/sequence.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -67,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="md书写格式.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="md书写格式.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docnote/src/md/Markdown/md书写格式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -664,11 +667,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docnote/src/md/Markdown/sequence.md">
+    <entry file="file://$PROJECT_DIR$/docnote/src/md/Markdown/md书写格式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <first_editor relative-caret-position="328">
+            <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -686,11 +689,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docnote/src/md/Markdown/md书写格式.md">
+    <entry file="file://$PROJECT_DIR$/docnote/src/md/Markdown/sequence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="328">
-            <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />
