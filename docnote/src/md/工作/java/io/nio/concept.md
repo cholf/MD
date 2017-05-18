@@ -16,7 +16,7 @@ Selector selector = Selector.open();//create
 channel.configureBlocking(false);
 SelectionKey key = channel.register(selector, SelectionKey.OP_READ);//register
 while(true) {//for(::)-which-better
-  int readyChannels = selector.select();
+  int readyChannels = selector.select();//
   if(readyChannels == 0) continue;
   Set<SelectionKey> selectedKeys = selector.selectedKeys();
   Iterator<SelectionKey> keyIterator = selectedKeys.iterator();
