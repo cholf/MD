@@ -1,0 +1,19 @@
+@startuml
+start
+:"submit_task";
+:"execute";
+if ("bigger_corePoolSize") then (true)
+    if ("queue_full") then (no)
+        :"add_2_queue";
+    else (yes)
+        if ("small_maximumPoolSize") then (yes)
+            :"add_work";
+        else (no)
+            :"reject";
+        endif
+    endif
+else
+:"add_work";
+endif
+stop
+@enduml
