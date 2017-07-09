@@ -1,0 +1,11 @@
+@startuml
+start
+
+:"AbstractDataLoader";
+:"定时任务相关设置，设置时间，线程";
+:"读取本地文件，保存map";
+:"检查版本和远端是否一致";
+:"启动定时任务，主动去远端拉取最新版本（http））";
+end
+@end
+@enduml
