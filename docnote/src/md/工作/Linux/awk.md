@@ -1,5 +1,6 @@
 
 # Awk命令
+### Short for "Aho, Weinberger, and Kernighan,"
 - 搜索订单:
   - awk  -F:'/tys170406162629207001/' flightorder.log
 - 统计出现数量:
