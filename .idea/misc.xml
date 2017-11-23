@@ -8,9 +8,6 @@
     <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../Enviroment/qunar.xml" />
     <option name="selectedJavaProfile" value="Qunar" />
   </component>
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>

@@ -5,6 +5,26 @@ log: 4454:well-known file is not secure
 solution:sudo  jstack -u tomcat 4454
 ```
 
+
+## 实际问题问题
+
+- 未响应
+```sh
+[gangwen.xu@l-ttsmng2.f.cn6 ~]$ sudo  jstack -l 23728
+23728: Unable to open socket file: target process not responding or HotSpot VM not loaded
+The -F option can be used when the target process is not responding
+```
+#### 解决
+```sh
+sudo  -u  tomcat jstack -l 6027
+```
+
+- 卡死
+
+-
+
+
+
 # jstack -h
 ```
 ➜  ~ jstack -h
