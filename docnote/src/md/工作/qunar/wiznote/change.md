@@ -1,13 +1,13 @@
-一. 改签：
+## 一. 改签：
 fuwugq项目中的后门：
-修改改签小状态
+- 修改改签小状态
 curl 'http://192.168.19.65:8080/gaiqian/backDoor/updateStatus?gqId=3347063&status=5&flightStatus=5'
 备注：flightdata查id;注意有个派单的状态；
-修改用户单大状态(N单), 更改tts订单大状态，只支持从改签申请中到改签完成或出票完成
+- 修改用户单大状态(N单), 更改tts订单大状态，只支持从改签申请中到改签完成或出票完成
 curl 'http://192.168.19.65:8080/gaiqian/backDoor/updateTtsStatus?orderNo=xuy160807065522841&domain=xuy.trade.qunar.com&fromStatus=40&toStatus=42'
-修改派单大状态(F单), 更改tts派单订单大状态，只支持从改签申请中到改签完成或出票完成
+- 修改派单大状态(F单), 更改tts派单订单大状态，只支持从改签申请中到改签完成或出票完成
 curl 'http://192.168.19.65:8080/gaiqian/backDoor/updateTtsStatusForFlight?orderNo=xuy160724221218417001&domain=xuy.trade.qunar.com&fromStatus=40&toStatus=42'
-二. 退款：
+## 二. 退款：
 curl "http://192.168.48.192:8080/refundcore/updateOrderStatus?domain=lms.trade.qunar.com&orderNo=lms161228110810735&fromStatus=31&toStatus=39"
 注解：
 
