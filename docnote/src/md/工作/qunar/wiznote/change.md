@@ -15,6 +15,9 @@ curl "http://192.168.48.192:8080/refundcore/updateOrderStatus?domain=lms.trade.q
 
 2.出票完成到------退款完成，需要先到，30（退款待确认）-31（待退款）-39（退款完成）
 
+f
+curl "http://192.168.57.18:8080/refundcoreflight/updateOrderStatus?domain=yyw.trade.qunar.com&orderNo=yyw170925152010317001&fromStatus=1&toStatus=50"
+
 三，批量脚本
 
 
