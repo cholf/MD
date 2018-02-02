@@ -3,7 +3,7 @@ title Android Broadcast procedure
 participant Activity #Lime
 participant ContextWrapper #Cyan
 participant ContextImpl #Cyan
-participant ActivityManagerService #Cyan
+participant ActivityManagerService
 participant ActivityStackSupervisor #Cyan
 participant ActivityStack #Cyan
 participant ApplicationThreadProxy #Silver
