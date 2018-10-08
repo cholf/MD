@@ -1,16 +1,16 @@
 ##
 
-http://l-flow1.f.cn1.qunar.com:8080/flow/entryRequestQuery/queryByDubboInfo?appCode=f_refund_core&className=com.qunar.fuwu.refund.core.api.IRefundUpdateRelatedService&methodName=refuseRefund&paramTypes=com.qunar.fuwu.refund.core.pojo.RefuseRefundParam&limit=1&paramTypes=com.qunar.fuwu.refund.core.pojo.AttachmentParam&beginTime=1535708866000&endTime=1535795266000
+http://lcom:8080/flow/entryRequestQuery/queryByDubboInfo?appCode=f_refund_core&className=com.qunar.fuwu.refund.core.api.IRefundUpdateRelatedService&methodName=refuseRefund&paramTypes=com.qunar.fuwu.refund.core.pojo.RefuseRefundParam&limit=1&paramTypes=com.qunar.fuwu.refund.core.pojo.AttachmentParam&beginTime=1535708866000&endTime=1535795266000
 
 
 
-http://l-noahxrpvxukb1.auto.beta.cn0.qunar.com:8080/test/verification?serviceName=applyRefundFlowVerificationService&beginTime=2018-09-19%2016:08:48&endTime=2018-09-19%2016:08:50
+http://l-.auto.beta.cn0.qunar.com:8080/test/verification?serviceName=applyRefundFlowVerificationService&beginTime=2018-09-19%2016:08:48&endTime=2018-09-19%2016:08:50
 
 
 
 #####  
 
-- http://buisy.qunar.com/fuwuapp/flowPlatform/appInfo  流量录制
+- http://.qunar.com/fuwuapp/flowPlatform/appInfo  流量录制
 
 问题
 
