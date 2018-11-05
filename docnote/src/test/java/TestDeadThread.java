@@ -1,4 +1,3 @@
-package test.java;
 
 import main.thread.DeadThread;
 
@@ -15,7 +14,7 @@ public class TestDeadThread {
         try {
             ThreadPoolExecutor threadPoolExecutor=new ThreadPoolExecutor(1, 1, 1, TimeUnit.DAYS,
                     new ArrayBlockingQueue<Runnable>(1));
-            threadPoolExecutor.submit()
+            //threadPoolExecutor.submit();
             DeadThread t1 = new DeadThread();
             t1.setName("a");
             Thread thread1 = new Thread(t1);
