@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e58e270-49e5-492e-b29a-bc0ddd949ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_core_3_5_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_symbol_solver_core_3_5_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_symbol_solver_logic_3_5_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_symbol_solver_model_3_5_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_4_jre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docnote/src/main/javaparser/Test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/basicjava/StingTest.class" afterPath="$PROJECT_DIR$/docnote/target/classes/basicjava/StingTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/basicjava/te.class" afterPath="$PROJECT_DIR$/docnote/target/classes/basicjava/te.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/entity/InsuranceEntity.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/entity/InsuranceEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/entity/ServiceOrder.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/entity/ServiceOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/ApplyRefundCheck.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/ApplyRefundCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/PriceCheck.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/PriceCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/StatusCheck.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/StatusCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/ApplyRefundCheckImpl.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/ApplyRefundCheckImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/ExpressStatusCheckImpl.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/ExpressStatusCheckImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/OrderPriceCheckImpl.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/OrderPriceCheckImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/OrderStatusCheckImpl.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/ddd/extensions/check/impl/OrderStatusCheckImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/nginx/threadpool/NgxPool.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/nginx/threadpool/NgxPool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/nginx/threadpool/PoolData.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/nginx/threadpool/PoolData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/main/thread/DeadThread.class" afterPath="$PROJECT_DIR$/docnote/target/classes/main/thread/DeadThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/rpc/Hession$TestHe.class" afterPath="$PROJECT_DIR$/docnote/target/classes/rpc/Hession$TestHe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/classes/rpc/Hession.class" afterPath="$PROJECT_DIR$/docnote/target/classes/rpc/Hession.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/target/test-classes/TestDeadThread.class" afterPath="$PROJECT_DIR$/docnote/target/test-classes/TestDeadThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/docnote.iml" afterPath="$PROJECT_DIR$/docnote/docnote.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docnote/pom.xml" afterPath="$PROJECT_DIR$/docnote/pom.xml" />
-    </list>
+    <list default="true" id="8e58e270-49e5-492e-b29a-bc0ddd949ed4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/docnote/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +23,8 @@
       <file leaf-file-name="ParserTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="273">
+              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,8 +72,8 @@
         <option value="$PROJECT_DIR$/docnote/src/main/rpc/Srilesible.java" />
         <option value="$PROJECT_DIR$/docnote/src/main/rpc/SerializationTest.java" />
         <option value="$PROJECT_DIR$/docnote/pom.xml" />
-        <option value="$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java" />
         <option value="$PROJECT_DIR$/docnote/src/main/javaparser/Test.java" />
+        <option value="$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java" />
       </list>
     </option>
   </component>
@@ -240,6 +204,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docnote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docnote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -774,7 +760,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -788,14 +774,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13844515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13844515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33547926" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.700565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.700565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -856,20 +842,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
@@ -1053,8 +1025,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docnote/src/main/javaparser/ParserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="273">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
